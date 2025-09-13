@@ -39,8 +39,6 @@ This project showcases my initial understanding of core Java concepts, including
 
 ## Program Flowchart
 
-## Program Flowchart
-
 ```mermaid
 flowchart TD
     A[Start Program] --> B[Prompt User for Text Input]
@@ -55,22 +53,23 @@ flowchart TD
     I --> J[Close Scanner & End Program]
 
 
+
 ## Example Run
 
-### Input
-```text
+## Input
+```
 Hello world! Hello Java.
-
+```
 
 ## Output
-
+```
 Total Characters: 23
 Total Words: 4
 Most Frequent Character: 'l' (5 times)
 Unique Words: 3
 Enter a word/character to query: Hello
 Frequency of 'Hello': 2
-
+```
 
 
 
