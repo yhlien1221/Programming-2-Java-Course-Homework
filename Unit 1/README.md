@@ -39,7 +39,6 @@ This project showcases my initial understanding of core Java concepts, including
 
 ## Program Flowchart
 
-```mermaid
 flowchart TD
     A[Start Program] --> B[Prompt User for Text Input]
     B --> C[Read Input using Scanner]
@@ -56,7 +55,7 @@ flowchart TD
 
 ## Example Run
 
-## Input
+### Input
 ```
 Hello world! Hello Java.
 ```
@@ -70,9 +69,6 @@ Unique Words: 3
 Enter a word/character to query: Hello
 Frequency of 'Hello': 2
 ```
-
-
-
 
 ## Personal Reflections & Learnings
 
