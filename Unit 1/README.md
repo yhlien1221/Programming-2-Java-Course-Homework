@@ -38,7 +38,7 @@ This project showcases my initial understanding of core Java concepts, including
 ---
 
 ## Program Flowchart
-
+```
 flowchart TD
     A[Start Program] --> B[Prompt User for Text Input]
     B --> C[Read Input using Scanner]
@@ -50,12 +50,12 @@ flowchart TD
     G --> H
     H --> I[Show Unique Word Count]
     I --> J[Close Scanner & End Program]
-
+```
 
 
 ## Example Run
 
-### Input
+## Input
 ```
 Hello world! Hello Java.
 ```
